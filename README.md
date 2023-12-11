@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi, I am Moiz-Ur-Rehman 👋
 
-<!--
-**Moiz-Ur-Rehman/Moiz-Ur-Rehman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 I am a Full Stack Developer
+- 🔭 Skills:
+    - Frontend: ReactJS, NextJS
+    - Backend: ExpressJS, NestJS
+    - Database: MongoDB, MySQL
+    - Deployment: AWS, Heroku, Firebase
+    - Tools and technologies: Git, Docker, Jira
+- 📫 How to reach me: +92 343 5995776 or moizurrehman0341@gmail.com
+- ⚡ Portfolio: https://moizurrehman.github.io/portfolio
